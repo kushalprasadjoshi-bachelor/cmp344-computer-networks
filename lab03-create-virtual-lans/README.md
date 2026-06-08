@@ -128,7 +128,7 @@ switchport access vlan 10
 exit
 ```
 
-### Assign Ports to VLAN 20
+#### Assign Ports to VLAN 20
 
 ```bash
 interface range fa0/3 - 4
@@ -139,7 +139,7 @@ switchport access vlan 20
 exit
 ```
 
-### Assign Ports to VLAN 30
+#### Assign Ports to VLAN 30
 
 ```bash
 interface range fa0/5 - 6
